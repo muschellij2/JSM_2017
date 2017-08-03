@@ -38,7 +38,7 @@ Plotly is awesome
 
 # My opinion: ggplotly reinforces <br> ggplot2 > base <br> <img src="images/ig_screaming.gif" style="width: 60%; display: inline; margin: auto;">
 
-## Leo Collado Torres: 
+## Leo Collado Torres: shinycsv and eQTL browsing
 
 <div class="container"> 
    <div class="left-half" style="font-size: 28pt;">
@@ -67,7 +67,9 @@ Plotly is awesome
 <div class="container"> 
    <div class="left-half" style="font-size: 28pt;">
 
-- use htmlwidgets: 10 lines of JS code
+- Models are hard
+- Use htmlwidgets: 10 lines of JS code
+- Maybe use shape people vs. people people
 - 
 
 </div>
