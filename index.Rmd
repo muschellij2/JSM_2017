@@ -36,6 +36,8 @@ Plotly is awesome
   </div>
 </div> 
 
+# My opinion: ggplotly reinforces <br> ggplot2 > base <br> <img src="images/ig_screaming.gif" style="width: 60%; display: inline; margin: auto;">
+
 ## Leo Collado Torres: 
 
 <div class="container"> 
@@ -50,12 +52,15 @@ Plotly is awesome
 
 </div>
    <div class="right-half" style="font-size: 20pt;">
-<img src="images/ig_yeah.jpg" style="width: 60%; display: inline; margin: auto;">
+<img src="images/ig_yeah.jpg" style="width: 70%; display: inline; margin: auto;">
 <img src="images/ig_decide.jpg" style="width: 40%; display: inline; margin: auto;">
 </div>
 </div>
 
-# My opinion: ggplotly reinforces <br> ggplot2 > base
+## Yesteryears in R: PDF with multiple images
+
+<img src="images/ig_pdf.jpg" style="width: 60%; display: block; margin: auto;">
+
 
 ## Sean Kross: p5
 
@@ -123,10 +128,6 @@ Plotly is awesome
 
 </div>
 
-## Yesteryears in R: PDF with multiple images
-
-<img src="images/ig_pdf.jpg" style="width: 60%; display: block; margin: auto;">
-
 ## Some rules for using interactive graphics
 
 <div class="container" style="font-size: 28pt;">
@@ -149,8 +150,8 @@ Plotly is awesome
 1. Shiny is good, but can't be emailed
     - Need a Server (Digital Ocean has tutorial)
 2. HTML and JavaScript is backended for most (or all) of what we discussed
-    - Github Pages - free hosting!
 3. Collaborators still want to know "how can I put in my presentation"
+    - Github Pages - free hosting! Also, standalone HTML
 4. Make it, then ask if it's OK to take some time to do it
 
 </div>
@@ -161,7 +162,7 @@ Plotly is awesome
 
 - Python has a lot of implementations similar to what we've discussed
 - Dash: Interactive, reactive web apps in pure python (from Plotly)
-- Stata: stata2leaflet, stata2d3 (never have used them)
+- Stata: stata2leaflet, stata2d3, gchart (never have used them)
 - SAS - ActiveX?  - not easy to disseminate
 
 </div>
