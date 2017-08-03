@@ -1,0 +1,108 @@
+---
+title: "Interactive Graphics: A Discussion"
+subtitle: "John Muschelli, \\@StrictlyStat,\n Johns Hopkins University"
+author: "presentation: http://johnmuschelli.com/JSM_2017"
+date: "code: http://github.com/muschellij2/JSM_2017"
+output:
+  ioslides_presentation:
+    self_contained: false
+    css: JSM_2017.css
+    widescreen: true
+    includes:
+      in_header: header.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      warning = FALSE, 
+                      message = FALSE)
+```
+
+
+## Carson Sievert
+
+<div class="container"> 
+   <div class="left-half" style="font-size: 28pt;">
+
+Create an R interface that is easyfor the user and just "works"
+
+Plotly is awesome 
+  - R package easiest implementation of quick, great interactive graphics
+  - but still bound to plotly.js and its implementations
+
+</div>
+   <div class="right-half" style="font-size: 20pt;">
+   <img src="images/ig_plotly.jpg" style="width: 100%; display: inline; margin: auto;">
+  </div>
+</div> 
+
+## Leo Collado Torres
+
+<div class="container"> 
+   <div class="left-half" style="font-size: 28pt;">
+
+- Interactive Graphics are good, but have some drawbacks
+- Re-use other tools 
+- Make it fast and simple
+- Iterative 
+- Minimize user options: make a decision 
+
+</div>
+   <div class="right-half" style="font-size: 20pt;">
+<img src="images/ig_yeah.jpg" style="width: 60%; display: inline; margin: auto;">
+<img src="images/ig_decide.jpg" style="width: 40%; display: inline; margin: auto;">
+</div>
+</div>
+
+
+# My opinion: `ggplotly` makes `ggplot2` > `base`
+
+## Interactive Graphics are Hard
+
+<img src="images/ig_hard.jpg" style="width: 80%; display: block; margin: auto;">
+
+## Interactive Graphics <s>are</s> were Hard
+
+- ggobi/xgobi
+- plotly (and `ggplotly`)
+- htmlwidgets
+- Shiny
+- rbokeh: http://hafen.github.io/rbokeh/
+- trelliscope: http://deltarho.org/docs-trelliscope/
+- manipulate 
+- crosstalk: http://rstudio.github.io/crosstalk/
+- ggvis/vegalite
+- rCharts
+- p5*
+
+
+# Interactive Graphics are "Catching up to the 90s" (Di Cook)
+
+# I think use of interactive graphics is increasing
+
+## Custom Interactive Graphics are Still Hard
+
+- GGobi is the standard to ascribe to in many ways (I haven't used extensively)
+- Implementing many of these widgets for HTML would be good
+    - \*cough\* PhD Thesis \*cough\*
+
+## Yesteryears in R: PDF with multiple images
+
+<img src="images/ig_pdf.jpg" style="width: 40%; display: block; margin: auto;">
+
+## Some rules for using interactive graphics
+
+To start:
+1. Make it simple 
+2. Give few choices if any
+3. Ask for specific feedback
+4. Make it fast, use tools available even if clunky.  I tend to use Shiny to start
+5. 
+
+
+## But I don't use R!
+
+- Python has a lot of implementations similar to what we've discussed
+- Dash: Interactive, reactive web apps in pure python (from Plotly)
+- Stata: stata2leaflet, stata2d3 (never have used them)
+
