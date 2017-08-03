@@ -147,11 +147,10 @@ Plotly is awesome
 
 <div class="container" style="font-size: 28pt;">
 
-1. Shiny is good, but can't be emailed
-    - Need a Server (Digital Ocean has tutorial)
+1. Shiny is good, but can't be emailed, need server (DO)
 2. HTML and JavaScript is backended for most (or all) of what we discussed
 3. Collaborators still want to know "how can I put in my presentation"
-    - Github Pages - free hosting! Also, standalone HTML
+    - GH Pages - free hosting! Also, standalone HTML
 4. Make it, then ask if it's OK to take some time to do it
 
 </div>
