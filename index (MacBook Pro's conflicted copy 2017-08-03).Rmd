@@ -169,8 +169,6 @@ Plotly is awesome
 
 # Publishing Interactive Graphics in Papers
 
-# Faculty Office Hour
-
 ## Questions to the speakers
 
 <br>
