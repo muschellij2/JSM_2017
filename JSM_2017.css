@@ -82,3 +82,7 @@ table.rmdtable tr, table.rmdtable td {
 .right-half{ 
   float: right; width: 48%; 
 }
+
+slides > slide > hgroup + article {
+    margin-top: 5px;
+}

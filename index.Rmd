@@ -59,50 +59,84 @@ Plotly is awesome
 
 ## Interactive Graphics are Hard
 
-<img src="images/ig_hard.jpg" style="width: 80%; display: block; margin: auto;">
+<img src="images/ig_hard.jpg" style="width: 60%; display: block; margin: auto;">
 
 ## Interactive Graphics <s>are</s> were Hard
+
+<div class="container" style="font-size: 28pt;"> 
+<div class="left-half">
 
 - ggobi/xgobi
 - plotly (and `ggplotly`)
 - htmlwidgets
 - Shiny
-- rbokeh: http://hafen.github.io/rbokeh/
-- trelliscope: http://deltarho.org/docs-trelliscope/
 - manipulate 
-- crosstalk: http://rstudio.github.io/crosstalk/
 - ggvis/vegalite
 - rCharts
+
+</div>
+<div class="right-half">
+
+- rbokeh: http://hafen.github.io/rbokeh/
+- trelliscope: http://deltarho.org/docs-trelliscope/
+- crosstalk: http://rstudio.github.io/crosstalk/
 - p5*
+</div>
 
 
-# Interactive Graphics are "Catching up to the 90s" (Di Cook)
+# Interactive Graphics are "Catching up to the 90s" <br> (Di Cook)
 
-# I think use of interactive graphics is increasing
+# Use of interactive graphics is increasing <br> (I think)
 
 ## Custom Interactive Graphics are Still Hard
+
+<div class="left-half" style="font-size: 28pt;">
 
 - GGobi is the standard to ascribe to in many ways (I haven't used extensively)
 - Implementing many of these widgets for HTML would be good
     - \*cough\* PhD Thesis \*cough\*
 
+</div>
+
 ## Yesteryears in R: PDF with multiple images
 
-<img src="images/ig_pdf.jpg" style="width: 40%; display: block; margin: auto;">
+<img src="images/ig_pdf.jpg" style="width: 60%; display: block; margin: auto;">
 
 ## Some rules for using interactive graphics
 
-To start:
-1. Make it simple 
-2. Give few choices if any
-3. Ask for specific feedback
-4. Make it fast, use tools available even if clunky.  I tend to use Shiny to start
-5. 
+<div class="container" style="font-size: 28pt;">
 
+To start:
+
+1. Make it simple 
+2. Give few choices, if any
+3. Ask for specific feedback
+4. Make it fast, use tools available even if clunky.  
+    - I tend to use Shiny to prototype
+
+</div>
+
+## Interactive graphics
+
+- Using interactive graphics
+
+## Collaboration and interactive graphics
+
+1. Shiny is good, but can't be emailed
+    - Need a Server (Digital Ocean has tutorial)
+2. HTML and JavaScript is backended for most (or all) of what we discussed
+3. 
 
 ## But I don't use R!
+
+<div class="container" style="font-size: 28pt;">
 
 - Python has a lot of implementations similar to what we've discussed
 - Dash: Interactive, reactive web apps in pure python (from Plotly)
 - Stata: stata2leaflet, stata2d3 (never have used them)
+- SAS
+
+</div>
+
+
 
