@@ -164,6 +164,7 @@ Plotly is awesome
 - Dash: Interactive, reactive web apps in pure python (from Plotly)
 - Stata: stata2leaflet, stata2d3, gchart (never have used them)
 - SAS - ActiveX?  - not easy to disseminate
+- Tableau
 
 </div>
 
