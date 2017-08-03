@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE,
 ```
 
 
-## Carson Sievert
+## Carson Sievert: plotly
 
 <div class="container"> 
    <div class="left-half" style="font-size: 28pt;">
@@ -36,7 +36,7 @@ Plotly is awesome
   </div>
 </div> 
 
-## Leo Collado Torres
+## Leo Collado Torres: 
 
 <div class="container"> 
    <div class="left-half" style="font-size: 28pt;">
@@ -46,6 +46,7 @@ Plotly is awesome
 - Make it fast and simple
 - Iterative 
 - Minimize user options: make a decision 
+- Make interactive beer contests
 
 </div>
    <div class="right-half" style="font-size: 20pt;">
@@ -54,8 +55,27 @@ Plotly is awesome
 </div>
 </div>
 
-
 # My opinion: ggplotly reinforces <br> ggplot2 > base
+
+## Sean Kross: p5
+
+<div class="container"> 
+   <div class="left-half" style="font-size: 28pt;">
+
+- use htmlwidgets: 10 lines of JS code
+- 
+
+</div>
+   <div class="right-half" style="font-size: 20pt;">
+
+<!-- <img src="images/ig_setit.png" style="width: 100%; display: inline; margin: auto;"> -->
+<img src="images/ig_easy.jpg" style="width: 100%; display: inline; margin: auto;">
+
+
+</div>
+</div>
+
+
 
 ## Interactive Graphics are Hard
 
@@ -73,14 +93,17 @@ Plotly is awesome
 - manipulate 
 - ggvis/vegalite
 - rCharts
+- leaflet
 
 </div>
 <div class="right-half">
 
 - rbokeh: http://hafen.github.io/rbokeh/
 - trelliscope: http://deltarho.org/docs-trelliscope/
-- crosstalk: http://rstudio.github.io/crosstalk/
+- **crosstalk:** http://rstudio.github.io/crosstalk/
+- googleVis
 - p5*
+
 </div>
 
 
@@ -90,11 +113,13 @@ Plotly is awesome
 
 ## Custom Interactive Graphics are Still Hard
 
-<div class="left-half" style="font-size: 28pt;">
+<!-- class="left-half" -->
+<div  style="font-size: 28pt;">
 
 - GGobi is the standard to ascribe to in many ways (I haven't used extensively)
 - Implementing many of these widgets for HTML would be good
     - \*cough\* PhD Thesis \*cough\*
+- Need to teach these tools
 
 </div>
 
@@ -115,6 +140,7 @@ Plotly is awesome
 
 </div>
 
+# Shiny Apps are good <br> call them something else <br> "Interactive Website"?  
 
 ## Collaboration and interactive graphics
 
@@ -123,7 +149,9 @@ Plotly is awesome
 1. Shiny is good, but can't be emailed
     - Need a Server (Digital Ocean has tutorial)
 2. HTML and JavaScript is backended for most (or all) of what we discussed
+    - Github Pages - free hosting!
 3. Collaborators still want to know "how can I put in my presentation"
+4. Make it, then ask if it's OK to take some time to do it
 
 </div>
 
@@ -137,6 +165,8 @@ Plotly is awesome
 - SAS - ActiveX?  - not easy to disseminate
 
 </div>
+
+# Publishing Interactive Graphics in Papers
 
 ## Questions to the speakers
 
