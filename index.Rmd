@@ -84,7 +84,7 @@ Plotly is awesome
 </div>
 
 
-# Interactive Graphics are "Catching up to the 90s" <br> (Di Cook)
+# Interactive Graphics are <br> "Catching up to the 90s" <br> (Di Cook)
 
 # Use of interactive graphics is increasing <br> (I think)
 
@@ -111,19 +111,21 @@ Plotly is awesome
 3. Ask for specific feedback
 4. Make it fast, use tools available even if clunky.  
     - I tend to use Shiny to prototype
+    - then ask people better than JS to help
 
 </div>
 
-## Interactive graphics
-
-- Using interactive graphics
 
 ## Collaboration and interactive graphics
+
+<div class="container" style="font-size: 28pt;">
 
 1. Shiny is good, but can't be emailed
     - Need a Server (Digital Ocean has tutorial)
 2. HTML and JavaScript is backended for most (or all) of what we discussed
 3. Collaborators still want to know "how can I put in my presentation"
+
+</div>
 
 ## But I don't use R!
 
