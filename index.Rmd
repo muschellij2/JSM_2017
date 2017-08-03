@@ -2,7 +2,7 @@
 title: "Making Interactive Graphics: A Discussion"
 subtitle: "John Muschelli, \\@StrictlyStat,\n Johns Hopkins University"
 author: "presentation: http://johnmuschelli.com/JSM_2017"
-date: "code: http://github.com/muschellij2/JSM_2017"
+date: "source: http://github.com/muschellij2/JSM_2017"
 output:
   ioslides_presentation:
     self_contained: false
