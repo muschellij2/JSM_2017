@@ -67,10 +67,11 @@ Plotly is awesome
 <div class="container"> 
    <div class="left-half" style="font-size: 28pt;">
 
-- Models are hard
 - Use htmlwidgets: 10 lines of JS code
+  - enough JS to be dangerous?
+- Models are hard
 - Maybe use shape people vs. people people
-- 
+- Formula syntax to pass JS-type variables
 
 </div>
    <div class="right-half" style="font-size: 20pt;">
@@ -113,6 +114,18 @@ Plotly is awesome
 
 </div>
 
+
+## But I don't use R!
+
+<div class="container" style="font-size: 28pt;">
+
+- Python has a lot of implementations similar to what we've discussed
+- Dash: Interactive, reactive web apps in pure python (from Plotly)
+- Stata: stata2leaflet, stata2d3, gchart (never have used them)
+- SAS - ActiveX?  - not easy to disseminate
+- Tableau
+
+</div>
 
 # Interactive Graphics are <br> "Catching up to the 90s" <br> (Di Cook)
 
@@ -157,17 +170,6 @@ Plotly is awesome
 
 </div>
 
-## But I don't use R!
-
-<div class="container" style="font-size: 28pt;">
-
-- Python has a lot of implementations similar to what we've discussed
-- Dash: Interactive, reactive web apps in pure python (from Plotly)
-- Stata: stata2leaflet, stata2d3, gchart (never have used them)
-- SAS - ActiveX?  - not easy to disseminate
-- Tableau
-
-</div>
 
 # Publishing Interactive Graphics in Papers
 
