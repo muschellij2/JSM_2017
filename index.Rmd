@@ -55,7 +55,7 @@ Plotly is awesome
 </div>
 
 
-# My opinion: `ggplotly` makes `ggplot2` > `base`
+# My opinion: ggplotly reinforces <br> ggplot2 > base
 
 ## Interactive Graphics are Hard
 
@@ -106,8 +106,6 @@ Plotly is awesome
 
 <div class="container" style="font-size: 28pt;">
 
-To start:
-
 1. Make it simple 
 2. Give few choices, if any
 3. Ask for specific feedback
@@ -125,7 +123,7 @@ To start:
 1. Shiny is good, but can't be emailed
     - Need a Server (Digital Ocean has tutorial)
 2. HTML and JavaScript is backended for most (or all) of what we discussed
-3. 
+3. Collaborators still want to know "how can I put in my presentation"
 
 ## But I don't use R!
 
@@ -134,9 +132,19 @@ To start:
 - Python has a lot of implementations similar to what we've discussed
 - Dash: Interactive, reactive web apps in pure python (from Plotly)
 - Stata: stata2leaflet, stata2d3 (never have used them)
-- SAS
+- SAS - ActiveX?  - not easy to disseminate
 
 </div>
 
+## Questions to the speakers
+
+<br>
+<div class="container" style="font-size: 35pt;">
+
+1.  How did you learn these skills (class vs. on own)?
+2.  Where does someone start?
+3.  How do you convince collaborators of the investment in time/energy/adapting HTML?
+
+</div>
 
 
